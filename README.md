@@ -11,7 +11,6 @@ class1
 <details>
        <summary>
         test1
-        test2
        </summary>
 </details>
 </details>
