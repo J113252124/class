@@ -11,13 +11,10 @@ class1
 <details>
        <summary>
         test1
-       </summary>
-     <summary>
         test2
        </summary>
 </details>
 </details>
-
 
 <details>
   <summary>
