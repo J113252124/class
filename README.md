@@ -13,6 +13,15 @@ class1
         test1
        </summary>
 </details>
+
+---
+
+<details>
+       <summary>
+        test2
+       </summary>
+</details>
+
 </details>
 
 <details>
