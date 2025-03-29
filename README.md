@@ -21,11 +21,11 @@ class1
 class2
   </summary>
   
-     <details>
+<details>
        <summary>
         test2
        </summary>
-    </details>
+</details>
 </details
 
 
